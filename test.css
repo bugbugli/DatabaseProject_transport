@@ -1,0 +1,79 @@
+	    #items {
+	        background-color: whitesmoke;
+	        font-size: 33px
+	    }
+
+	    aside {
+	        background: whitesmoke;
+	        border: solid 1px gray;
+	        border-radius: 10px
+	    }
+
+	    footer {
+	        background: linear-gradient (to bottom, lightblue, white)
+	    }
+
+	    #maincontain {
+	        background: lightyellow
+	    }
+
+	    input[name=typeA] {
+	        border: 0;
+	        background-color: darkgray;
+	        color: #fff;
+	        border-radius: 10px;
+	        cursor: pointer;
+	    }
+
+	    input[name=typeA]:hover {
+	        color: darkgray;
+	        background-color: #fff;
+	        border: 2px darkgray solid;
+	    }
+
+	    input[name=typeB] {
+	        border: 0;
+	        background-color: lightseagreen;
+	        color: #fff;
+	        border-radius: 10px;
+	        cursor: pointer;
+	    }
+
+	    input[name=typeB]:hover {
+	        color: lightseagreen;
+	        background-color: #fff;
+	        border: 2px lightseagreen solid;
+	    }
+
+	    #sender {
+	        font-size: 20
+	    }
+
+	    table[name=normal] {
+	        border: 1px solid #666666;
+	        font-size: 18px;
+	        width: 900px;
+	        text-align: center;
+	        border-collapse: separate;
+	    }
+        table[name=revise] {
+	        border: 1px solid #666666;
+	        font-size: 18px;
+	        width: 300px;
+	        text-align: center;
+	        border-collapse: separate;
+	    }
+
+	    th {
+	        text-align: center;
+	        background-color: darkturquoise;
+	        padding: 10px;
+	        border: 1px solid #666666;
+	        color: #fff;
+	    }
+
+	    td {
+	        background-color: snow;
+	        border: 1px solid #666666;
+	        padding: 5px;
+	    }
